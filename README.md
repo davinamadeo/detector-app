@@ -64,3 +64,8 @@ main.dart
 `person` · `car` · `truck` · `bus` · `motorcycle` · `bicycle` · `dog` · `cat` · `bottle` · `phone`
 
 > Objek lain bisa ditambahkan manual di list `_availableLabels` sesuai label model yang dipakai.
+
+## Screenshot Aplikasi
+![alt text](Screenshot_20260512_001036.jpg)
+![alt text](Screenshot_20260512_001110.jpg)
+![alt text](Screenshot_20260512_001132.jpg)
