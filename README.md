@@ -66,6 +66,6 @@ main.dart
 > Objek lain bisa ditambahkan manual di list `_availableLabels` sesuai label model yang dipakai.
 
 ## Screenshot Aplikasi
-![alt text](Screenshot_20260512_001036.jpg)
-![alt text](Screenshot_20260512_001110.jpg)
-![alt text](Screenshot_20260512_001132.jpg)
+![alt text](assets/image/Screenshot_20260512_001036.jpg)
+![alt text](assets/image/Screenshot_20260512_001110.jpg)
+![alt text](assets/image/Screenshot_20260512_001132.jpg)
